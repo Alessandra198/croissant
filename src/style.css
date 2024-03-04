@@ -1,1 +1,19 @@
+body {
+  background: rgb(253, 218, 171);
+  text-align: center;
+}
 
+.links a {
+  margin-left: 15px;
+  color: rgb(20, 155, 20);
+}
+
+.information {
+  text-decoration: underline;
+}
+
+.croissant-picture {
+  margin-bottom: 15px;
+  border-radius: 10px;
+  max-width: 100%;
+}
